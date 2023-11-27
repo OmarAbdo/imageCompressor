@@ -1,2 +1,2 @@
 # imageCompressor
-A Python image compressor using Django
+A Python image compressor using Flask
